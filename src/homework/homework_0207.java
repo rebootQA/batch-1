@@ -6,7 +6,5 @@ public class homework_0207 {
 		System.out.println("manzire");
 		System.out.println("Anthony");
 		
-		System.out.println("You need to git pull");
-
 	}
 }
