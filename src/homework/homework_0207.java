@@ -5,6 +5,5 @@ public class homework_0207 {
 		System.out.println("claudia");
 		System.out.println("manzire");
 		System.out.println("Anthony");
-		
 	}
 }
