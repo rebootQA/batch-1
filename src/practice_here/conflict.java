@@ -7,6 +7,7 @@ public class conflict {
 		System.out.println("Lets have a conflict");
 		System.out.println("Are you having a good day?");
 		System.out.println("Thank you");
+		System.out.println("creating a conflict");
 	}
 
 }
