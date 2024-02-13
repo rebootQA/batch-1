@@ -1,5 +1,7 @@
 package a;
 
+import java.util.Arrays;
+
 public class ReverseHmwrk {
 	public static void main(String[] args) {
 		String[] letters = { "r", "e", "b", "o", "o", "t" };
