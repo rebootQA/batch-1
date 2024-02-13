@@ -3,9 +3,17 @@ package homework;
 public class homework_0212 {
 
 	public static void main(String[] args) {
-	
-		// TODO Auto-generated method stub name = new ();
-	System.out.println("hh");
+
+		String reboot = "Reboot";
+		// r e b o o t
+		// 0 1 2 3 4 5
+
+		System.out.println(reboot.length());
+
+		String lastTwo = reboot.substring(reboot.length() - 2);
+
+		System.out.println(lastTwo + lastTwo + lastTwo);
+
 	}
 
 }
