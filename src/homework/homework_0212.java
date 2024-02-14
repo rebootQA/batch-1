@@ -14,8 +14,11 @@ public class homework_0212 {
 
 		System.out.println(lastTwo + lastTwo + lastTwo);
 
-		System.out.println("are you sure this is line 17");
-		System.out.println("are you sure this is line 18");
+
+		System.out.println("this is  line 17");
+		System.out.println("this is  line 18");
+
+		
 		
 
 	}
