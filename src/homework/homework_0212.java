@@ -13,10 +13,11 @@ public class homework_0212 {
 		String lastTwo = reboot.substring(reboot.length() - 2);
 
 		System.out.println(lastTwo + lastTwo + lastTwo);
-System.out.println("hello");
-System.out.println("i add something");
-System.out.println("this is line 18");
-	
+
+		System.out.println("this is  line 17");
+		System.out.println("this is  line 18");
+		
+
 	}
 
 }
