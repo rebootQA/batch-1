@@ -14,8 +14,8 @@ public class homework_0212 {
 
 		System.out.println(lastTwo + lastTwo + lastTwo);
 
-		System.out.println("hi");
-		System.out.println("good night");
+		System.out.println("this is not line 17");
+		System.out.println("this is not line 18");
 		
 
 	}
