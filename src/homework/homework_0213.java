@@ -3,7 +3,12 @@ package homework;
 public class homework_0213 {
 
 	public static void main(String[] args) {
+
 		System.out.println("ans");
+
+		String reboot = "reboot";
+		System.out.println(reboot.substring(1,reboot.length()-1));
+
 	}
 
 }
