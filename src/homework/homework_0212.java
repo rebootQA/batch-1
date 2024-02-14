@@ -13,7 +13,11 @@ public class homework_0212 {
 		String lastTwo = reboot.substring(reboot.length() - 2);
 
 		System.out.println(lastTwo + lastTwo + lastTwo);
-System.out.println("hello");
+
+		System.out.println("this is not line 17");
+		System.out.println("this is not line 18");
+		
+
 	}
 
 }
