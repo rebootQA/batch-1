@@ -14,6 +14,9 @@ public class homework_0212 {
 
 		System.out.println(lastTwo + lastTwo + lastTwo);
 System.out.println("hello");
+System.out.println("i add something");
+System.out.println("this is line 18");
+	
 	}
 
 }
