@@ -3,8 +3,8 @@ package homework;
 public class homework_0213 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String reboot = "reboot";
+		System.out.println(reboot.substring(1,reboot.length()-1));
 	}
 
 }
