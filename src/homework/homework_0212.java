@@ -14,6 +14,8 @@ public class homework_0212 {
 
 		System.out.println(lastTwo + lastTwo + lastTwo);
 
+		System.out.println("good night");
+		
 	}
 
 }
