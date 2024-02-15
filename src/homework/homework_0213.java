@@ -3,9 +3,9 @@ package homework;
 public class homework_0213 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String word = "Claudia";
-		System.out.println(word.substring(1, word.length() - 1));
+
+		String reboot = "reboot";
+		System.out.println(reboot.substring(1, reboot.length() - 1));
 	}
 
 }
