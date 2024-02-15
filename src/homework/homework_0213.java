@@ -6,6 +6,7 @@ public class homework_0213 {
 
 		String reboot = "reboot";
 		System.out.println(reboot.substring(1, reboot.length() - 1));
+
 	}
 
 }
