@@ -5,8 +5,19 @@ public class homework_0214 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
+		
+		
+		String a="reboot";
+		String b="homework";
+		if (a.length()>b.length()) {
+		  System.out.println(b+a+b);
+		
+	}else {
+	System.out.println(a+b+a);	
 	}
 
+}
 }
 
 /*
