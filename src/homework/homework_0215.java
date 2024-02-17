@@ -6,7 +6,6 @@ public class homework_0215 {
 		String word1 = "reboot";
 		// String word2= "Snowing";
 		String firstTwo = word1.substring(0, 2);
-		
 		System.out.println(word1.substring(2) + firstTwo);
 
 		// TODO Auto-generated method stub
