@@ -12,6 +12,9 @@ public class homework_0215 {
 		String leftb = b.substring(2, b.length());
 		System.out.println(left + firsttwo);
 		System.out.println(leftb + firsttwob);	
+		
+		
+		
 	}
 
 }
