@@ -13,12 +13,9 @@ public class homework_0215 {
 //		
 //		System.out.println(lastA + firstTwoA);
 //		System.out.println(lastB + firstTwoB);
-		
-		System.out.println(a.substring(2)+ a.substring(0, 2));
-		System.out.println(b.substring(2)+ b.substring(0, 2));
 
-
-
+		System.out.println(a.substring(2) + a.substring(0, 2));
+		System.out.println(b.substring(2) + b.substring(0, 2));
 
 	}
 
