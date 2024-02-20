@@ -19,10 +19,8 @@ public class homework_0215 {
 
 	}
 
+}
 
-
-		}
-		
 /*
  * Given these string, "Reboot" and "Snowing" return a "rotated left 2" version
  * where the first 2 chars are moved to the end.
