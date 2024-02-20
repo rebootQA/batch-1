@@ -3,6 +3,14 @@ package homework;
 public class homework_0219 {
 
 	public static void main(String[] args) {
+		String word= "reboot";
+		int index=0;
+		if (word.length()>=2 && word.length()<=3) {
+			System.out.println(word.substring(index,index+2));
+		}else {
+			System.out.println(word.substring(0,2));
+		}
+		
 		// TODO Auto-generated method stub
 
 	}
