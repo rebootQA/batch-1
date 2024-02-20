@@ -3,15 +3,11 @@ package homework;
 public class homework_0215 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String a = "Reboot";
-		String b = "Snowing";
-		String firsttwo = a.substring(0, 2);
-		String left = a.substring(2, a.length());
-		String firsttwob = b.substring(0, 2);
-		String leftb = b.substring(2, b.length());
-		System.out.println(left + firsttwo);
-		System.out.println(leftb + firsttwob);	
+		int a = 0;
+		System.out.println(":(");
+		int b = 1;
+		System.out.println(":)");
+		
 	}
 
 }
