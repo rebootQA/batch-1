@@ -3,11 +3,20 @@ package homework;
 public class homework_0215 {
 
 	public static void main(String[] args) {
-		int a = 0;
-		System.out.println(":(");
-		int b = 1;
-		System.out.println(":)");
-		
+
+		String a = "Reboot";
+		String b = "Snowing";
+//		String lastA = a.substring(2);
+//		String lastB = b.substring(2);
+//		String firstTwoA = a.substring(0, 2);
+//		String firstTwoB = b.substring(0, 2);
+//		
+//		System.out.println(lastA + firstTwoA);
+//		System.out.println(lastB + firstTwoB);
+
+		System.out.println(a.substring(2) + a.substring(0, 2));
+		System.out.println(b.substring(2) + b.substring(0, 2));
+
 	}
 
 }
