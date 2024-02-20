@@ -3,6 +3,7 @@ package homework;
 public class homework_0215 {
 
 	public static void main(String[] args) {
+
 		String a = "Reboot";
 		String b = "Snowing";
 //		String lastA = a.substring(2);
@@ -21,8 +22,10 @@ public class homework_0215 {
 
 	}
 
-}
 
+
+		}
+		
 /*
  * Given these string, "Reboot" and "Snowing" return a "rotated left 2" version
  * where the first 2 chars are moved to the end.
