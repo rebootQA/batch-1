@@ -3,6 +3,11 @@ package practice_here;
 public class homework_0220 {
 
 	public static void main(String[] args) {
+		 String a = "Candy";
+		
+		 System.out.println(a.substring(a.length()/2-1,a.length()/2+2));;
+
+		
 		// TODO Auto-generated method stub
 
 
