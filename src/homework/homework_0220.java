@@ -1,9 +1,12 @@
-package practice_here;
+package homework;
 
 public class homework_0220 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String candy = "Candy";
+		
+		
+		System.out.println(candy.substring(candy.length()/2 - 1, candy.length()/2 + 2));
 
 
 		/*
