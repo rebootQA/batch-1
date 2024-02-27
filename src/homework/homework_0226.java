@@ -4,6 +4,17 @@ public class homework_0226 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		public static void main(String[] args) {
+			int a = 15;
+			
+
+			if (a/2==1) {
+				System.out.println("fizz");
+				if  (a/4==1) {
+					System.out.println("buzz");
+					if (a/2==1&& a/4==1)
+						
+						System.out.println("fizzbuzz");	
 
 	}
 
