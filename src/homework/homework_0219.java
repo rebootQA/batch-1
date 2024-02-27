@@ -3,6 +3,7 @@ package homework;
 public class homework_0219 {
 
 	public static void main(String[] args) {
+
 		String words = "Java";
 		int index = 3;
 
@@ -11,7 +12,6 @@ public class homework_0219 {
 		} else {
 			System.out.println(words.substring(index, index + 2));
 		}
-
 	}
 	// j a v a
 	// 0 1 2 3 <== index
