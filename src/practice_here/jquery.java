@@ -5,7 +5,7 @@ public class jquery {
 		// TODO Auto-generated method stub
 
 		System.setProperty("Webdriver.chrome.driver",
-				"C:\\Users\\dilxa\\OneDrive\\Desktop\\driver\\chromedriver-win32\\chromedriver-win32\\chromedriver.exe\"")
+				"C:\\Users\\dilxa\\OneDrive\\Desktop\\driver\\chromedriver-win32\\chromedriver-win32\\chromedriver.exe\"");
 		
 	
 	}
