@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import POJO.jQuery_widgets;
+
 public class jquery0227 {
 
 	public static void main(String[] args) {
@@ -13,6 +15,9 @@ public class jquery0227 {
 		
 		WebDriver driver = new ChromeDriver();
 		
+		jQuery_widgets widgets = new jQuery_widgets(driver);
+		
+				
 		driver.get("https://jqueryui.com/animate/");
 		
 		driver.switchTo().frame(driver.findElement(By.className("demo-frame")));
